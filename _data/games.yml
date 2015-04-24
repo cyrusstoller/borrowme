@@ -3,6 +3,11 @@
   price: 5
   copies: 1
 
+- name: Settlers of Catan Expansion
+  image: http://img1.imagesbn.com/p/9781569052020_p0_v2_s260x420.JPG
+  price: "3 when bundled, $5 on its own"
+  copies: 1
+
 - name: Jenga
   image: https://brentstephensmith.files.wordpress.com/2011/10/jenga.jpg
   price: 5
@@ -20,5 +25,10 @@
 
 - name: Coup
   image: https://cf.geekdo-images.com/images/pic2016054_md.jpg
+  price: 5
+  copies: 1
+
+- name: Bananagrams
+  image: http://www.amomstake.com/wp-content/uploads/2012/11/BANANAGRAMS-LOGO1-420x247.jpg
   price: 5
   copies: 1
