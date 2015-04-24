@@ -1,0 +1,24 @@
+- name: Settlers Of Catan
+  image: http://images.amazon.com/images/G/01/toys/detail-page/B000W7JWUA-2-lg.jpg
+  price: 5
+  copies: 1
+
+- name: Jenga
+  image: https://brentstephensmith.files.wordpress.com/2011/10/jenga.jpg
+  price: 5
+  copies: 1
+
+- name: Set
+  image: http://www.setgame.com/sites/default/files/styles/uc_product_full/public/SET---Box---Transparent-Background---8-22-11_0.png?itok=pQO_08ng
+  price: 5
+  copies: 1
+
+- name: Resistance
+  image: http://cf.geekdo-images.com/images/pic1392135.png
+  price: 5
+  copies: 1
+
+- name: Coup
+  image: https://cf.geekdo-images.com/images/pic2016054_md.jpg
+  price: 5
+  copies: 1

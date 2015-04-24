@@ -1,0 +1,21 @@
+<table>
+  <tbody>
+    {% for game in site.data.games %}
+      <tr>
+        <td class="game_info"><img src="{{ game.image }}" class="game_img" /></td>
+        <td class="game_info">
+          <strong>{{ game.name }}</strong>
+          <br>
+          Rental: ${{ game.price}}
+          <br>
+          Copies: {{ game.copies }}
+        </td>
+        <td class="game_info">
+          <a href="mailto:borrowmegames@gmail.com?subject=[Borrow Request] {{ game.name }}&body=Game:%20{{ game.name }}%0ALocation:%0ADate:%0APhone:">
+            Reserve Now!
+          </a>
+        </td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
